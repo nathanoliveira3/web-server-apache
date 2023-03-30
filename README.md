@@ -21,10 +21,10 @@ Change into the project directory:
 
 Make the script executable:
 
-`chmod +x setup.sh`
+`chmod +x script.sh`
 
 Run the script:
 
-`./setup.sh`
+`./script.sh`
 
 Using the command `ip a`, you can see the apache server ip. You can use a browser to see the website.
