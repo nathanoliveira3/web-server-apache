@@ -14,11 +14,11 @@ cd /tmp
 
 echo "--> Downloading the files <--"
 
-wget https://codeload.github.com/denilsonbonatti/linux-site-dio/zip/refs/heads/main.zip
+wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip
 
 unzip main.zip
 
-cd linux-site-dio
+cd linux-site-dio-main
 
 echo "--> Copying files to apache <--"
 
